@@ -9,7 +9,6 @@ function App() {
     <div>
       <Header />
       <main className="py-3">
-        <h1 className="text-center">Intimacy Records</h1>
         <Container>
           <HomeScreen />
         </Container>
