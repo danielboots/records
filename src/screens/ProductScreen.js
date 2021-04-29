@@ -62,7 +62,7 @@ function ProductScreen({ match }) {
                   disabled={product.countInStock == 0}
                   type="button"
                 >
-                  Add to Cart
+                  Add to Cart lad
                 </Button>
               </ListGroup.Item>
             </ListGroup>
